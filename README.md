@@ -92,3 +92,10 @@ _equity_curve                       Equity...
 _trades                      Size  EntryBa...
 dtype: object
 ```
+
+### Note
+The results although profitable on back test has been proved unprofitable due to broker fees and changing market conditions. The goal of VOBHS project is just for demonstrative and educational purposes only
+
+# Disclaimer
+
+The material on this repository and the analysis has no regard to the specific investment objectives, financial situation, or particular needs of any user. This website is presented solely for informational and entertainment purposes and is not to be construed as a recommendation, solicitation, or an offer to buy or sell / long or short any securities, commodities, cryptocurrencies, or any related financial instruments. Nor should any of its content be taken as investment advice.
