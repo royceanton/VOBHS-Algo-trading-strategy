@@ -36,6 +36,8 @@ No matter the type of market being traded or the trading strategy being employed
 
 ### Boom-Hunter Pro (Veryfid)
 
+![image](https://i.gyazo.com/f58555df01b47cbb979d51563a2bdbd8.png)
+
 The original Boom-pro indicator by [Veryfid](https://wiki.boomhunter.net/) in pinescript language reverse engineered and implemented on Python. 
 
 Note: Only certain segments of the complete Boom indicator modified for VOBHS strategy has been implemented here.
@@ -55,37 +57,38 @@ The Hull Moving Average (HMA) seeks to maintain the smoothness of the moving ave
 
 
 # VOBHS Strategy Backtest result
+![image](https://i.gyazo.com/45c939e9df46218622c4434ddde662bc.png)
 
 ```
 Start                                     0.0
 End                                    1499.0
 Duration                               1499.0
-Exposure Time [%]                        45.6
-Equity Final [$]                     10098.46
-Equity Peak [$]                      10289.16
-Return [%]                             0.9846
-Buy & Hold Return [%]                8.372291
+Exposure Time [%]                        31.4
+Equity Final [$]                   10131.9031
+Equity Peak [$]                    10131.9031
+Return [%]                           1.319031
+Buy & Hold Return [%]                0.952299
 Return (Ann.) [%]                         0.0
 Volatility (Ann.) [%]                     NaN
 Sharpe Ratio                              NaN
 Sortino Ratio                             NaN
 Calmar Ratio                              0.0
-Max. Drawdown [%]                   -3.762212
-Avg. Drawdown [%]                   -1.239755
-Max. Drawdown Duration                  500.0
-Avg. Drawdown Duration                 84.875
+Max. Drawdown [%]                   -2.007586
+Avg. Drawdown [%]                   -1.720264
+Max. Drawdown Duration                  317.0
+Avg. Drawdown Duration                  234.5
 # Trades                                  1.0
 Win Rate [%]                            100.0
-Best Trade [%]                       1.165885
-Worst Trade [%]                      1.165885
-Avg. Trade [%]                       1.165885
-Max. Trade Duration                     683.0
-Avg. Trade Duration                     683.0
+Best Trade [%]                       1.446258
+Worst Trade [%]                      1.446258
+Avg. Trade [%]                       1.446258
+Max. Trade Duration                     470.0
+Avg. Trade Duration                     470.0
 Profit Factor                             NaN
-Expectancy [%]                       1.165885
+Expectancy [%]                       1.446258
 SQN                                       NaN
 _strategy                      Vobhs_Strategy
-_equity_curve                     Equity  ...
+_equity_curve                       Equity...
 _trades                      Size  EntryBa...
 dtype: object
 ```
