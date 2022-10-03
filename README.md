@@ -1,4 +1,4 @@
-# VOBHS-Algo-trading-strategy
+# VOBHS Algorithmic Trading Strategy
 An implementation and backtest analysis of VOBHS algorithmic trading strategy using NumPy, Pandas and Backtesting using Backtesting.py
 
 # What is VOBHS Indicator
