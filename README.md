@@ -100,5 +100,14 @@ The results although profitable on back test has been proved unprofitable due to
 
 The material on this repository and the analysis has no regard to the specific investment objectives, financial situation, or particular needs of any user. This website is presented solely for informational and entertainment purposes and is not to be construed as a recommendation, solicitation, or an offer to buy or sell / long or short any securities, commodities, cryptocurrencies, or any related financial instruments. Nor should any of its content be taken as investment advice.
 
+## View my other projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=royceanton&repo=CISE-Telegram-Crypto-Screener-Bot)](https://github.com/royceanton/CISE-Telegram-Crypto-Screener-Bot)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=royceanton&repo=Physics-experiments)](https://github.com/royceanton/Physics-experiments)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=royceanton&repo=Cointegration-Filter-for-Pairs-Trading)](https://github.com/royceanton/Cointegration-Filter-for-Pairs-Trading)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=royceanton&repo=VOBHS-algo-trading-strategy)](https://github.com/royceanton/VOBHS-algo-trading-strategy)
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=royceanton.VOBHS-algo-trading-strategy)
