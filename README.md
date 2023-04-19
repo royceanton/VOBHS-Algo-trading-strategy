@@ -3,9 +3,9 @@ An implementation and backtest analysis of VOBHS algorithmic trading strategy us
 
 The original video for this trading strategy using manual indicators on tradingview was found on this [youtube video](https://www.youtube.com/watch?v=wtB4fHM-IxM), claiming to be a highly profitable strategy. The complete strategy has been implemented on python recreating the indicators and automating the strategy.
 
-# What is VOBHS Indicator
+# What is Volatility-Oscillator Indicator
 
-VOBHS Technical Strategy that analyzes the volume and current market trend to filter buy and sell signals algorithmically. The strategy comprises of the following indicators:
+Volatility-Oscillator Technical Strategy that analyzes the volume and current market trend to filter buy and sell signals algorithmically. The strategy comprises of the following indicators:
 
 ```
 Volatility-Oscillator
